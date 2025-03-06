@@ -2,7 +2,7 @@
 
 <h1 style="margin: 0 auto;position: relative;text-align: center;width: fit-content;">Alasdair Macrae</h1>
 <br />
-<div><img src="./assets/tag-react.svg" alt="React" /><img src="./assets/tag-next.svg" alt="Next" /><img src="./assets/tag-css.svg" alt="CSS" /><img src="./assets/tag-storybook.svg" alt="Storybook" /></div>
+<div style="display: flex;justify-content: center;width: 100%;"><img src="./assets/tag-react.svg" alt="React" /><img src="./assets/tag-next.svg" alt="Next" /><img src="./assets/tag-css.svg" alt="CSS" /><img src="./assets/tag-storybook.svg" alt="Storybook" /></div>
 
 The unparalleled blend of front-end web developer and trampolinist.
 
