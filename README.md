@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Banner" />
+<img src="./assets/banner.png" alt="Banner" style="object-fit: contain" />
 
 <h1 style="margin: 0 auto;position: relative;text-align: center;width: fit-content;">Alasdair Macrae</h1>
 <br />
