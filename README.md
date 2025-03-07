@@ -15,8 +15,8 @@ I am passionate about building exciting whilst performant web experiences and pu
 
 ---
 
-<!--BLOG-LIST:START-->
-<!--BLOG-LIST:END-->
+<!-- BLOG-LIST:START -->
+<!-- BLOG-LIST:END -->
 
 ---
 
