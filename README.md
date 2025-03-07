@@ -19,10 +19,10 @@ I am passionate about building exciting whilst performant web experiences and pu
 
 <!-- BLOG-LIST:START -->
 - [dotJS 2024](https://www.alasdairmacrae.co.uk/blog/dotjs-2024)
-- [dotJS 2024](https://www.alasdairmacrae.co.uk/blog/dotjs-2024)
-- [dotJS 2024](https://www.alasdairmacrae.co.uk/blog/dotjs-2024)
 - [DXperts in Action: How Jagex summoned a world class digital experience for millions of players](https://www.alasdairmacrae.co.uk/blog/dxperts-in-action-how-jagex-summoned-a-world-class-digital-experience-for-millions-of-players)
-- [DXperts in Action: How Jagex summoned a world class digital experience for millions of players](https://www.alasdairmacrae.co.uk/blog/dxperts-in-action-how-jagex-summoned-a-world-class-digital-experience-for-millions-of-players)
+- [Designing and delivering a Jagex technology vision](https://www.alasdairmacrae.co.uk/blog/designing-and-delivering-a-jagex-technology-vision)
+- [The future of web at Jagex](https://www.alasdairmacrae.co.uk/blog/the-future-of-web-at-jagex)
+- [Recipe for Faster](https://www.alasdairmacrae.co.uk/blog/recipe-for-faster)
 <!-- BLOG-LIST:END -->
 
 ---
