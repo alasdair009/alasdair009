@@ -8,7 +8,7 @@ The unparalleled blend of front-end web developer and trampolinist.
 I am passionate about building exciting whilst performant web experiences and pushing the limits of what CSS can do!
 
 <ul>
-    <li>Games industry web engineer with over 13 years developer experience</li>
-    <li>Launched and maintain multiple websites for AAA titles</li>
-    <li>Avid Design System author via Storybook</li>
+    <li>:building_construction: Games industry web engineer with over 13 years developer experience</li>
+    <li>:rocket: Launched and maintain multiple websites for AAA titles</li>
+    <li>:artist_palette: Avid Design System author via Storybook</li>
 </ul>
