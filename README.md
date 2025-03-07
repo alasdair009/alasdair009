@@ -12,4 +12,12 @@ I am passionate about building exciting whilst performant web experiences and pu
     <li>:rocket: Launched and maintain multiple websites for AAA titles</li>
     <li>:artist: Avid Design System author via Storybook</li>
 </ul>
+
+---
+
+<!--BLOG-LIST:START-->
+<!--BLOG-LIST:END-->
+
+---
+
 <div align="center"><img src="./assets/ali-portrait.svg" width="400" /></div>
