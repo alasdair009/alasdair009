@@ -1,6 +1,5 @@
-<img src="./assets/banner.png" alt="Banner" style="object-fit: contain" />
-
-<h1 style="margin: 0 auto;position: relative;text-align: center;width: fit-content;">Alasdair Macrae</h1>
+<img src="./assets/banner.png" alt="Alasdair Macrae - front end developer" style="object-fit: contain" />
+<br />
 <br />
 <div align="center"><img src="./assets/tag-react.svg" alt="React" /><img src="./assets/tag-next.svg" alt="Next" /><img src="./assets/tag-css.svg" alt="CSS" /><img src="./assets/tag-storybook.svg" alt="Storybook" /></div>
 
