@@ -10,5 +10,5 @@ I am passionate about building exciting whilst performant web experiences and pu
 <ul>
     <li>:building_construction: Games industry web engineer with over 13 years developer experience</li>
     <li>:rocket: Launched and maintain multiple websites for AAA titles</li>
-    <li>:artist_palette: Avid Design System author via Storybook</li>
+    <li>:artist: Avid Design System author via Storybook</li>
 </ul>
