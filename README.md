@@ -15,6 +15,8 @@ I am passionate about building exciting whilst performant web experiences and pu
 
 ---
 
+## Latest Blog Articles
+
 <!-- BLOG-LIST:START -->
 - [dotJS 2024](https://www.alasdairmacrae.co.uk/blog/dotjs-2024)
 - [dotJS 2024](https://www.alasdairmacrae.co.uk/blog/dotjs-2024)
