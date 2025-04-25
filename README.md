@@ -18,11 +18,11 @@ I am passionate about building exciting whilst performant web experiences and pu
 ## Latest Blog Articles
 
 <!-- BLOG-LIST:START -->
+- [Putting Next Multi-Tenant apps in Context](https://www.alasdairmacrae.co.uk/blog/putting-next-multi-tenant-apps-in-context)
 - [A quest from Styled-Components to CSS Modules](https://www.alasdairmacrae.co.uk/blog/a-quest-from-styled-components-to-css-modules)
 - [Taking the weather with you with JS](https://www.alasdairmacrae.co.uk/blog/taking-the-weather-with-you-with-js)
 - [RuneFest 2025](https://www.alasdairmacrae.co.uk/blog/runefest-2025)
 - [DXperts in Action: How Jagex summoned a world class digital experience for millions of players](https://www.alasdairmacrae.co.uk/blog/dxperts-in-action-how-jagex-summoned-a-world-class-digital-experience-for-millions-of-players)
-- [Designing and delivering a Jagex technology vision](https://www.alasdairmacrae.co.uk/blog/designing-and-delivering-a-jagex-technology-vision)
 <!-- BLOG-LIST:END -->
 
 ---
